@@ -2,7 +2,7 @@
 
 ** This Repository will take a series of known values of a Soduku and solve it for you! **
 
-*Input Outions*
+*Input Options*
 - Array
 - Text File 
 - Console Input
